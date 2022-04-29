@@ -10,7 +10,7 @@
     "@codemirror/highlight": "^0.19.6",
     "@codemirror/state": "^0.19.6",
     "@codemirror/view": "^0.19.26",
-    "@date-io/dayjs": "^2.11.0",
+    "@date-io/dayjs": "^2.13.1",
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.6.0",
     "@mui/icons-material": "^5.2.0",
