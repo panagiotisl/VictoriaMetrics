@@ -13,7 +13,8 @@ import (
 
 const (
 	// The maximum number of rows per block.
-	maxRowsPerBlock = 8 * 1024
+	//maxRowsPerBlock = 8 * 1024
+	maxRowsPerBlock = 1000
 
 	// The maximum size of values in the block.
 	maxBlockSize = 8 * maxRowsPerBlock

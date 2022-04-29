@@ -3,15 +3,14 @@ package storage
 import (
 	"bytes"
 	"fmt"
-	"io"
-	"path/filepath"
-	"sync"
-	"sync/atomic"
-
 	"github.com/VictoriaMetrics/VictoriaMetrics/lib/encoding"
 	"github.com/VictoriaMetrics/VictoriaMetrics/lib/filestream"
 	"github.com/VictoriaMetrics/VictoriaMetrics/lib/fs"
 	"github.com/VictoriaMetrics/VictoriaMetrics/lib/logger"
+	"io"
+	"path/filepath"
+	"sync"
+	"sync/atomic"
 )
 
 // blockStreamWriter represents block stream writer.
