@@ -29,6 +29,8 @@ github.com/VictoriaMetrics/metricsql/binaryop
 # github.com/VividCortex/ewma v1.2.0
 ## explicit
 github.com/VividCortex/ewma
+# github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0
+github.com/antzucaro/matchr
 # github.com/aws/aws-sdk-go v1.42.19
 ## explicit
 github.com/aws/aws-sdk-go/aws
@@ -107,7 +109,6 @@ github.com/cncf/xds/go/xds/data/orca/v3
 github.com/cncf/xds/go/xds/type/matcher/v3
 github.com/cncf/xds/go/xds/type/v3
 # github.com/cpuguy83/go-md2man/v2 v2.0.1
-## explicit
 github.com/cpuguy83/go-md2man/v2/md2man
 # github.com/envoyproxy/go-control-plane v0.10.1
 ## explicit
@@ -262,7 +263,7 @@ github.com/prometheus/prometheus/tsdb/wal
 github.com/rivo/uniseg
 # github.com/russross/blackfriday/v2 v2.1.0
 github.com/russross/blackfriday/v2
-# github.com/urfave/cli/v2 v2.3.0
+# github.com/urfave/cli/v2 v2.8.0
 ## explicit
 github.com/urfave/cli/v2
 # github.com/valyala/bytebufferpool v1.0.0
