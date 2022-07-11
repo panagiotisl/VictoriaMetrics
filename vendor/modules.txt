@@ -106,8 +106,7 @@ github.com/cncf/xds/go/xds/core/v3
 github.com/cncf/xds/go/xds/data/orca/v3
 github.com/cncf/xds/go/xds/type/matcher/v3
 github.com/cncf/xds/go/xds/type/v3
-# github.com/cpuguy83/go-md2man/v2 v2.0.1
-## explicit
+# github.com/cpuguy83/go-md2man/v2 v2.0.2
 github.com/cpuguy83/go-md2man/v2/md2man
 # github.com/envoyproxy/go-control-plane v0.10.1
 ## explicit
@@ -262,7 +261,7 @@ github.com/prometheus/prometheus/tsdb/wal
 github.com/rivo/uniseg
 # github.com/russross/blackfriday/v2 v2.1.0
 github.com/russross/blackfriday/v2
-# github.com/urfave/cli/v2 v2.3.0
+# github.com/urfave/cli/v2 v2.11.0
 ## explicit
 github.com/urfave/cli/v2
 # github.com/valyala/bytebufferpool v1.0.0
@@ -285,6 +284,8 @@ github.com/valyala/histogram
 # github.com/valyala/quicktemplate v1.7.0
 ## explicit
 github.com/valyala/quicktemplate
+# github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673
+github.com/xrash/smetrics
 # go.opencensus.io v0.23.0
 go.opencensus.io
 go.opencensus.io/internal
