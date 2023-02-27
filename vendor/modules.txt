@@ -11,7 +11,7 @@ cloud.google.com/go/internal/version
 ## explicit
 cloud.google.com/go/storage
 cloud.google.com/go/storage/internal/apiv2
-# github.com/VictoriaMetrics/fastcache v1.8.0
+# github.com/VictoriaMetrics/fastcache v1.12.1
 ## explicit
 github.com/VictoriaMetrics/fastcache
 # github.com/VictoriaMetrics/fasthttp v1.1.0
@@ -88,7 +88,7 @@ github.com/beorn7/perks/quantile
 ## explicit
 github.com/census-instrumentation/opencensus-proto/gen-go/resource/v1
 github.com/census-instrumentation/opencensus-proto/gen-go/trace/v1
-# github.com/cespare/xxhash/v2 v2.1.2
+# github.com/cespare/xxhash/v2 v2.2.0
 ## explicit
 github.com/cespare/xxhash/v2
 # github.com/cheggaaa/pb/v3 v3.0.8
@@ -329,7 +329,7 @@ golang.org/x/oauth2/jws
 golang.org/x/oauth2/jwt
 # golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 golang.org/x/sync/errgroup
-# golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+# golang.org/x/sys v0.5.0
 ## explicit
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
